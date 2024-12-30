@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pasoyun.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAEAAAAAAABEAAAEQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Cevaplar" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgEAAAAAAAEAACAoEEAAAAAAAAIAAAAAAAQ=</HashCode>
+      <FileName>Cevaplar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="pasoyun.CevapYoneticisi" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAQ=</HashCode>
+      <FileName>CevapYoneticisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Form1" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABABAACAAABCAAAYAAAAEGAAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Form2" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAQAACBCAIARgDAIyCAIMDQMw/wMBgACARYDAwAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.KayitForm" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABAAAACAAABCIAAIAAAAEEAAAABAAAA=</HashCode>
+      <FileName>KayitForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Kayitİslemleri" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAgAAAAAAAAAAAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>Kayitİslemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.OyunYoneticisi" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAEAAAAAAAAAAAAoEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OyunYoneticisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Program" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Sonuc" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sonuc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pasoyun.Sorular" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAhAAAAMmAAAICCAAAAAAAAQAAA=</HashCode>
+      <FileName>Sorular.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="pasoyun.SoruYoneticisi" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAiAEgAAAIACAAAAAAAAQAAA=</HashCode>
+      <FileName>SoruYoneticisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="pasoyun.ICevapYonetimi" Collapsed="true">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAACAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICevapYonetimi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="pasoyun.IOyunYonetimi" Collapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAgIAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOyunYonetimi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="pasoyun.ISoruYonetimi1" Collapsed="true">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAhAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISoruYonetimi1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
